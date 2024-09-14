@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\clases\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:clases\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\vehiculosforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:vehiculosforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\globalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:globalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\evaluacion1-swcons.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:evaluacion1-swcons.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|solutionrelative:ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\vehiculosforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|solutionrelative:vehiculosforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|solutionrelative:clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\clases\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:clases\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\clases\\concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:clases\\concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|c:\\users\\killu\\downloads\\evaluacion1-swcons\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|Evaluacion1-SWcons.csproj|solutionrelative:clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:27:14.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Evaluacion1-SWcons",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\Evaluacion1-SWcons.csproj",
+              "RelativeDocumentMoniker": "Evaluacion1-SWcons.csproj",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\Evaluacion1-SWcons.csproj",
+              "RelativeToolTip": "Evaluacion1-SWcons.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T02:26:20.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalVar.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\GlobalVar.cs",
+              "RelativeDocumentMoniker": "GlobalVar.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\GlobalVar.cs",
+              "RelativeToolTip": "GlobalVar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:26:09.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\VentasForm.cs",
+              "RelativeDocumentMoniker": "VentasForm.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\WinFormsApp1\\VentasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\WinFormsApp1\\VentasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:09:34.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Principal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\Principal.cs",
+              "RelativeDocumentMoniker": "Principal.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\Principal.cs [Design]",
+              "RelativeToolTip": "Principal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:25:39.302Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\VentasForm.cs",
+              "RelativeDocumentMoniker": "VentasForm.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\VentasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:25:39.419Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\clases\\Inventario.cs",
+              "RelativeDocumentMoniker": "clases\\Inventario.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\clases\\Inventario.cs",
+              "RelativeToolTip": "clases\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:59:29.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Concesionario.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\clases\\Concesionario.cs",
+              "RelativeDocumentMoniker": "clases\\Concesionario.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\clases\\Concesionario.cs",
+              "RelativeToolTip": "clases\\Concesionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:32:21.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\clases\\Venta.cs",
+              "RelativeDocumentMoniker": "clases\\Venta.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\clases\\Venta.cs",
+              "RelativeToolTip": "clases\\Venta.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA8wB0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:32:10.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\clases\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "clases\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\clases\\Vehiculo.cs",
+              "RelativeToolTip": "clases\\Vehiculo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwB4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:46:10.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\clases\\Cliente.cs",
+              "RelativeDocumentMoniker": "clases\\Cliente.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\clases\\Cliente.cs",
+              "RelativeToolTip": "clases\\Cliente.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAApwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T01:34:55.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VentasForm.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\VentasForm.cs",
+              "RelativeDocumentMoniker": "VentasForm.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\VentasForm.cs",
+              "RelativeToolTip": "VentasForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAASwBkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:26:17.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiculosForms.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\VehiculosForms.cs",
+              "RelativeDocumentMoniker": "VehiculosForms.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\VehiculosForms.cs",
+              "RelativeToolTip": "VehiculosForms.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAmwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:25:55.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientesForm.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\ClientesForm.cs",
+              "RelativeDocumentMoniker": "ClientesForm.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\ClientesForm.cs",
+              "RelativeToolTip": "ClientesForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:24:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\Principal.cs",
+              "RelativeDocumentMoniker": "Principal.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\Principal.cs",
+              "RelativeToolTip": "Principal.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:12:19.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientesForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\ClientesForm.cs",
+              "RelativeDocumentMoniker": "ClientesForm.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\WinFormsApp1\\ClientesForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\WinFormsApp1\\ClientesForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:33:41.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehiculosForms.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\VehiculosForms.cs",
+              "RelativeDocumentMoniker": "VehiculosForms.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\WinFormsApp1\\VehiculosForms.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\WinFormsApp1\\VehiculosForms.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:04:54.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\killu\\Downloads\\Evaluacion1-SWcons\\Principal.cs",
+              "RelativeDocumentMoniker": "Principal.cs",
+              "ToolTip": "C:\\Users\\killu\\Downloads\\WinFormsApp1\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\WinFormsApp1\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:29:57.901Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 750,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
